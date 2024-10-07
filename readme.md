@@ -4,6 +4,9 @@
 ## Overview
 The Mini Firewall API is a simple command-line utility that allows users to manage a firewall's configuration by modifying port lists and DNS blacklists. The tool provides options to view, add, and remove entries from these lists, helping to control network access and traffic filtering.
 
+## Example Use
+An example demonstration of the project in action can be viewed [here](https://youtu.be/V75fg1Xm3U4).
+
 ## Features
 - **Sniffing Configuration Tools**: 
   - View, add, or remove port entries from a port list (`portlist.txt`).
